@@ -25,7 +25,7 @@ function CardSec2() {
         </div>
       </div>
       <div className="h-80 w-[85%] flex justify-center gap-4 mb-2">
-        <div className="h-full w-[49%] bg-[#ffffff2d] rounded-[50px] flex flex-col justify-between py-10">
+        <div className="h-full w-[39rem] bg-[#ffffff2d] rounded-[50px] flex flex-col justify-between py-10">
           <div className="h-[30%] w-full flex items-center justify-end px-10">
             <div className="h-[80%] w-[30%] bg-black rounded-[50px] flex items-center justify-between px-1">
                 <div className="h-[89%] w-[34%] rounded-[50px]    bg-gradient-to-r from-[#ff4a4a] via-[#ea00ff] to-[#00ff73]"></div>
@@ -42,7 +42,7 @@ function CardSec2() {
           </div>
         </div>
 
-       <div className="h-full w-[49%] bg-[#ffffff2d] rounded-[50px] flex flex-col justify-between py-10">
+       <div className="h-full w-[39rem] bg-[#ffffff2d] rounded-[50px] flex flex-col justify-between py-10">
           <div className="h-[30%] w-full flex items-center justify-end px-10">
             <div className="h-[80%] w-[33%] bg-black rounded-[50px] flex items-center justify-between px-1">
                 <div className="h-[89%] w-[32%] rounded-[50px]    bg-gradient-to-r from-[#4efed5] via-[#007224] to-[#0400ff]"></div>
@@ -61,7 +61,7 @@ function CardSec2() {
       </div>
 
       <div className="h-80 w-[85%]  flex justify-center gap-4 mb-10">
-      <div className="h-full w-[49%] bg-[#ffffff2d] rounded-[50px] flex flex-col justify-between py-10">
+      <div className="h-full w-[39rem] bg-[#ffffff2d] rounded-[50px] flex flex-col justify-between py-10">
           <div className="h-[30%] w-full flex items-center justify-end px-10">
             <div className="h-[80%] w-[30%] bg-black rounded-[50px] flex items-center justify-between px-1">
                 <div className="h-[89%] w-[34%] rounded-[50px]    bg-gradient-to-r from-[#ffd24b] via-[#ff792c] to-[#e76e04]"></div>
@@ -77,7 +77,7 @@ function CardSec2() {
             </h2>
           </div>
         </div>
-        <div className="h-full w-[49%] bg-[#a2ff00] rounded-[50px] flex flex-col justify-between py-10">
+        <div className="h-full w-[39rem] bg-[#a2ff00] rounded-[50px] flex flex-col justify-between py-10">
           <div className="h-[30%] w-full flex items-center justify-end px-10">
             <div className="h-[80%] w-[34%] bg-black rounded-[50px] flex items-center justify-between px-1">
                 <div className="h-[89%] w-[30%] rounded-[50px]    bg-gradient-to-r from-[#43cd41] via-[#aeff01] to-[#007b37]"></div>
